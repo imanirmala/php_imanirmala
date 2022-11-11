@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="">
+    <form action="soal2b.php" method="POST">
         <table>
             <tr>
                 <td>Nama Anda : </td>
